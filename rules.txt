@@ -1,0 +1,53 @@
+          
+          Game Play
+
+Checkers is played by two players.
+Pieces are represented by red and 
+orange "O's".
+Red opens the game, then players 
+alternate their turns.
+Randomly determine who gets the 
+red pieces first. 
+
+            Move
+
+The pieces always move diagonally 
+and single pieces are always 
+limited to forward moves.
+A piece making a non-capturing 
+move may move only one square.
+
+           Capture
+
+To capture a piece of your 
+opponent, your piece leaps 
+over one of the opponent's pieces 
+and lands in a straight diagonal 
+line on the other side.
+This landing square must be empty.
+When a piece is captured, it is 
+removed from the board.
+Only one piece may be captured in a 
+single jump.
+
+    Upgrade a piece to a King
+
+When a piece reaches the furthest 
+row, it is crowned and becomes a 
+king.
+When a piece becomes a king it 
+becomes represented by an "X" in a 
+slightly altered shade of colour.
+Kings are still limited to moving 
+diagonally but can move both 
+forward and backward.
+
+       End of the Game
+
+A player wins the game when the 
+opponent cannot make a move.
+This happens because all of the 
+opponent's pieces have been captured. 
+
+
+INPUT ANY KEY TO GO BACK: 
